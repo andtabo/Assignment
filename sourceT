@@ -1,0 +1,6 @@
+print hey there
+print this is a source test
+USER=Mauro
+print $USER
+print yep
+chdir /home
